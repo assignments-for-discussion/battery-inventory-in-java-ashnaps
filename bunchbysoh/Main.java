@@ -7,6 +7,7 @@ public class Main {
     public int failed = 0;
   };
 
+  //Ashna
   static CountsBySoH countBatteriesByHealth(int[] presentCapacities) {
     CountsBySoH counts = new CountsBySoH();
     int n=presentCapacities.length;
